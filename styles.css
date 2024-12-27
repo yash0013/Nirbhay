@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+}
+
+.progress {
+    background: #e0e0e0;
+    border-radius: 20px;
+    overflow: hidden;
+    height: 20px;
+    margin: 10px 0;
+}
+
+.progress-bar {
+    background: #76c7c0;
+    height: 100%;
+    width: 0;
+    transition: width 0.3s;
+}
+
+.chat {
+    margin: 20px 0;
+}
+
+.chat .message {
+    background: #eee;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.responses button {
+    margin-right: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.responses button:hover {
+    background: #0056b3;
+}
+
+#interactive-content {
+    margin: 20px 0;
+}
+
+/* Add styles for card flipping, drag and drop tasks here */
