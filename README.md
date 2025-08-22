@@ -50,3 +50,9 @@ Welcome to **Nirbhay**, an immersive cybersecurity simulator designed to **educa
 
    ```bash
    git clone https://github.com/yash0013/Nirbhay.git
+
+
+## License  
+
+Copyright © 2025 [Yash Bhoi](https://github.com/yash0013).  
+All rights reserved.  
