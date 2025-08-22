@@ -2,10 +2,6 @@
  Your Cyber play Ground
 **Created By:** Yash Bhoi
 
-**AILML:** 4B
-
-**E.Number:** 112
-
 **Github:** [https://github.com/yash0013](https://github.com/yash0013)
 
 **Tools and Tech Used:** HTML5, JavaScript, PHP, SQL, CSS, Font Awesome library for icons, Google Fonts
